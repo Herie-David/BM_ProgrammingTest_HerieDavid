@@ -4,7 +4,7 @@ This project implements an A* grid-based pathfinding system.
 
 ## Key Features
 - **Grid Initialization:** Created a `PathNode` grid initialized from obstacle data.
-- **A* Algorithm:** Implemented A* search algorithm utilizing open and closed lists.
+- **A*** **Algorithm:** Implemented A* search algorithm utilizing open and closed lists.
 - **Heuristic:** Added Manhattan distance heuristic designed for 4-directional movement.
 - **Neighbor Detection:** Implemented neighbor detection for adjacent nodes (up, down, left, right).
 - **Path Retracing:** Added functionality for path retracing from the target node back to the start node.
